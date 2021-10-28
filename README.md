@@ -22,5 +22,5 @@ cargo install --force cargo-contract
 ## Building
 
 ```
-cargo +nightly-2020-03-01 contract build
+cargo +nightly-2021-10-20 contract build
 ```
